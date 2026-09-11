@@ -1,3 +1,7 @@
 # ROM-bestanden horen niet in de repo
 *.nes
 *.wav
+
+# Python-bytecode
+__pycache__/
+*.pyc
